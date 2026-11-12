@@ -21,7 +21,10 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lattakone12/lattakone12/main/assets/space.gif" width="100%" alt="space background"/>
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="https://raw.githubusercontent.com/lattakone12/lattakone12/main/assets/space.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 </div>
