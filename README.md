@@ -1,31 +1,6 @@
-<!--
-============================================================
- HƯỚNG DẪN SỬ DỤNG (đọc rồi xoá comment này trước khi đăng)
-============================================================
-1. Tạo 1 repository MỚI có tên TRÙNG với username GitHub của bạn
-   (ví dụ username là "lattakone12" thì repo tên "lattakone12"),
-   để trống, public, có README.
-2. Copy toàn bộ nội dung bên dưới vào file README.md của repo đó.
-3. Thay tất cả chỗ có chữ YOUR_USERNAME, Tên Của Bạn, link mạng xã hội... 
-   bằng thông tin thật của bạn.
-4. Phần ảnh nền không gian: vì ảnh gốc là ảnh riêng của tác giả nên
-   không copy được y hệt. Bạn lên https://giphy.com hoặc
-   https://pixabay.com/gifs/, tìm từ khoá "space", "galaxy", "earth
-   rotating", tải GIF miễn phí về, đẩy lên 1 thư mục "assets" trong
-   chính repo profile của bạn, rồi sửa dòng IMAGE_URL bên dưới thành
-   đường dẫn tới file đó, ví dụ:
-   https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/space.gif
-============================================================
--->
-
 <div align="center">
 
-<div align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="https://raw.githubusercontent.com/lattakone12/lattakone12/main/assets/space.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<img src="https://raw.githubusercontent.com/lattakone12/lattakone12/main/assets/ufo.gif" width="100%" alt="UFO landing on Earth" />
 
 </div>
 
@@ -33,7 +8,7 @@
 
 <img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+Alien!;I'm+Ten+Cua+Ban+from+the+Earth." alt="Typing SVG" />
 
-### 👋 Xin chào, mình là **Tên Của Bạn**
+### 👋 Helloo my name is Lattakone PMC 
 
 📍 Việt Nam &nbsp;|&nbsp; 📧 email@example.com &nbsp;|&nbsp; 🌐 yourwebsite.com
 
@@ -65,12 +40,12 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lattakone12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lattakone12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lattakone12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -87,6 +62,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=lattakone12&color=blueviolet&style=flat-square)
 
 </div>
