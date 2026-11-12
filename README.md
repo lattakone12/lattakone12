@@ -20,7 +20,9 @@
 
 <div align="center">
 
-<img src="IMAGE_URL" width="100%" alt="space background"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lattakone12/lattakone12/main/assets/space.gif" width="100%" alt="space background"/>
+</div>
 
 </div>
 
